@@ -4,9 +4,10 @@
 나의 강아지의 이름은 샌디이고, 골든 리트리버야
 
 ## 내가 좋아하는 것들 
-<img src="egg.jpg" alt="egg" width="300">
-<img src="saxophone.jpg" alt="saxophone" width="300">
-<img src="volleyball.jpg" alt="volleyball" width="300">
+<img src="egg.jpg" alt="egg" width="250">
+<img src="saxophone.jpg" alt="saxophone" width="250">
+<img src="volleyball.jpg" alt="volleyball" width="250">
+<img src="tokk.jpg" alt="ttok" width="250">
 
 ## My Project
 - Turtle programming
